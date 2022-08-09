@@ -79,7 +79,7 @@ public class Tamagochis {
 	         return false;
 		}
 		else 
-			System.out.println("nom " + nom + ", réduit l'énergie !!");
+			System.out.println("nom " + nom + ", => réduit l'énergie !!");
 			return true;
 	}
 	
